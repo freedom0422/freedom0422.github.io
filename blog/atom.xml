@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://freedom0422.github.io/blog</id>
     <title>张彤彤的官方网站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-09-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://freedom0422.github.io/blog"/>
     <subtitle>张彤彤的官方网站 Blog</subtitle>
     <icon>https://freedom0422.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[高兴师]]></title>
+        <id>https://freedom0422.github.io/blog/happy</id>
+        <link href="https://freedom0422.github.io/blog/happy"/>
+        <updated>2023-09-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天真高兴]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="今天真高兴">今天真高兴<a href="#今天真高兴" class="hash-link" aria-label="今天真高兴的直接链接" title="今天真高兴的直接链接">​</a></h2><p>今天天气真不错，我们大家来上课</p>]]></content>
+        <author>
+            <name>张彤彤</name>
+            <uri>https://github.com/</uri>
+        </author>
+        <category label="随笔" term="随笔"/>
+        <category label="诗" term="诗"/>
+        <category label="张彤彤" term="张彤彤"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://freedom0422.github.io/blog/welcome</id>

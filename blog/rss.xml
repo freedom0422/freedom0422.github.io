@@ -4,10 +4,21 @@
         <title>张彤彤的官方网站 Blog</title>
         <link>https://freedom0422.github.io/blog</link>
         <description>张彤彤的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴师]]></title>
+            <link>https://freedom0422.github.io/blog/happy</link>
+            <guid>https://freedom0422.github.io/blog/happy</guid>
+            <pubDate>Tue, 26 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天真高兴]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="今天真高兴">今天真高兴<a href="#今天真高兴" class="hash-link" aria-label="今天真高兴的直接链接" title="今天真高兴的直接链接">​</a></h2><p>今天天气真不错，我们大家来上课</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗</category>
+            <category>张彤彤</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://freedom0422.github.io/blog/welcome</link>
